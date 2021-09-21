@@ -20,7 +20,7 @@ User should be able:
 
 ## Live Site URL
 
-[live site URL](https://zineb-bou.github.io/ip-address-tracker/)
+[live site URL](https://nebula-team.github.io/ip-address-tracker/)
 
 
 ## Author
